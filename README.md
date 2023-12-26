@@ -17,6 +17,8 @@ Languages
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
 ![JS](https://img.shields.io/badge/-javascript-blue?logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-orange?logo=sql)
+![HTML](https://img.shields.io/badge/-HTML-BLUE?logo=HTML)
+
 
 ### Frameworks and Libraries
 
